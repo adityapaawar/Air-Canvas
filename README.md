@@ -1,8 +1,8 @@
-# 🎨 Air Canvas – Draw in Air Using Finger Tracking
+# Air Canvas – Draw in Air Using Finger Tracking
 
 Control drawing in the air using your index finger!
 
-## ✨ Features
+## Features
 - Draw in the air using your index finger
 - Change brush color (Blue, Green, Red)
 - Eraser option
@@ -10,7 +10,7 @@ Control drawing in the air using your index finger!
 - Save your drawing using **S**
 - Quit using **Q**
 
-## 🚀 How to Run
+ How to Run
 ```bash
 pip install -r requirements.txt
 python main.py
